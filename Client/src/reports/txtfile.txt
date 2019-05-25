@@ -1,0 +1,9 @@
+29    150000    C001bgs    PowerSupply    2500.0    2019-03-06    5    
+30    150000    fvfv    PowerSupply    2500.0    2019-03-06    5    
+33    150000    C001bgsd    PowerSupply    2500.0    2019-03-06    5    
+35    150000    C001bgsde    PowerSupply    2500.0    2019-03-06    5    
+36    150000    ffvfv    PowerSupply    2500.0    2019-03-06    10    
+38    150000    C001    PowerSupply    1650.0    2019-03-06    15    
+39    150000    ffvfvd    PowerSupply    2500.0    2019-03-06    10    
+41    150000    C001bgsdec    PowerSupply    555.0    2019-03-06    5    
+47    150000    ffvfvjk    PowerSupply    2500.0    2019-03-06    10    
